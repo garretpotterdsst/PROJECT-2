@@ -1,0 +1,354 @@
+html {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  overflow-x: hidden;
+  margin-bottom: 0;
+}
+h1{
+font-size: 75px;
+font-family: 'Ubuntu';
+display:flex;
+justify-content: center;
+}
+p{
+font-size:25px;
+font-family: 'Ubuntu';
+display:flex;
+justify-content: center;
+}
+main{
+  position: relative;
+  z-index: 0;
+  background-color: gray;
+  margin-top: 0;
+}
+.heading{
+margin: 0;
+}
+
+a:link{
+  color:black;
+}
+a:visited{
+color:currentColor;
+}
+a{
+  text-decoration: none;
+}
+.main-image-wrapper{
+width:100%;
+height:200px;
+background-color: gray;
+position:fixed;
+z-index: -1;
+display: flex;
+align-items: baseline;
+padding-top: 0px;
+}
+.main-image{
+  position:relative;
+  clp:rect(20px,0px,0px,60px);
+  height:500px;
+  width:100%;
+}
+.operators-title{
+display:flex;
+align-items: center;
+justify-content: center;
+  padding:10px;
+  width: 34%;
+  font-size: 100px;
+  font-family:"Cinzel";
+    background-color: white;
+    margin-left:510px;;
+    height:75px;
+  position:relative;
+  z-index: 1;
+}
+.home-title{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+    padding:10px;
+    width: 60%;
+    font-size: 100px;
+    font-family:"Cinzel";
+      background-color: white;
+      margin-left:330px;
+      height:75px;
+    position:relative;
+    z-index: 1;
+}
+.navigation-wrapper {
+  font-family: 'Cinzel', serif;
+  display:inline-flex;
+  justify-content:space-between;;
+  width:75%;
+  list-style-type: none;
+  padding-left,right:10px;
+  padding-top: 0px;
+  text-decoration: none;
+  margin-right: 25%;
+  margin-bottom: 175px;
+  margin-top: 0px;
+  font-size: 35px;
+  background-color: white;
+  text-decoration: none;
+  position:static;
+  z-index: 2;
+  align-items: flex-start;
+  }
+  .nav{
+    margin-top: 10px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration: none;
+  }
+
+.operator-list{
+
+}
+.operator-countries{
+  list-style-type: none;
+  text-decoration: none;
+  align-items:stretch;
+  border-style: solid;
+  border:10px;
+  background-color: gray;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-right: 20px;
+  font-family: 'Rajdhani';
+  width: 98%;
+  margin-left,right: 10px;
+}
+
+.bope{
+    border-style: solid;
+    border-width: 2.5px;
+    padding:10px;
+    margin-top:5px;
+  width:95%;
+  background-color:#009b3a;
+  height:150px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+  font-weight: 300;
+  word-spacing: 30px;
+}
+.capitao{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.caveira{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+
+.geo{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#9f14e1;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.gign{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#5f80dd;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.grom{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#38f0ec;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.gsg9{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#e8ed26;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.jtf2{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#108bc6;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.buck{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#108bc6;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.frost{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#108bc6;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+margin-bottom: 30px;
+}
+
+.navyseals{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#d7b11d;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.sas{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#a9aaad;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.sdu{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#d2680f;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.spetsnaz{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:red;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.swat{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:5px;
+width:95%;
+background-color:#ff9b14;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
